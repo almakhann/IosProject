@@ -1,0 +1,96 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "48u-0b-FQF"; */
+"48u-0b-FQF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "6jm-Gq-MEt"; */
+"6jm-Gq-MEt.text" = "1";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "7nW-Jx-w18"; */
+"7nW-Jx-w18.text" = "Clasificación";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9iz-MG-ev6"; */
+"9iz-MG-ev6.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AYr-3V-RXN"; */
+"AYr-3V-RXN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AsN-q7-0Mj"; */
+"AsN-q7-0Mj.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "Bbj-09-VwW"; */
+"Bbj-09-VwW.normalTitle" = "Jugar";
+
+/* Class = "UILabel"; text = "Learn"; ObjectID = "CA9-Wq-POb"; */
+"CA9-Wq-POb.text" = "Aprender";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Csp-2E-uam"; */
+"Csp-2E-uam.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "DMJ-Pt-lQ0"; */
+"DMJ-Pt-lQ0.placeholder" = "Nombre";
+
+/* Class = "UIButton"; normalTitle = "Rating"; ObjectID = "DX1-aP-IDE"; */
+"DX1-aP-IDE.normalTitle" = "Clasificación";
+
+/* Class = "UILabel"; text = "Select Level"; ObjectID = "ENR-Xi-Z9L"; */
+"ENR-Xi-Z9L.text" = "Selecciona el nivel";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "EWP-dS-h8j"; */
+"EWP-dS-h8j.text" = "0";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "Jve-0T-Od7"; */
+"Jve-0T-Od7.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Result:"; ObjectID = "Ki3-wK-i7N"; */
+"Ki3-wK-i7N.text" = "Resultado:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "N1z-SI-R6P"; */
+"N1z-SI-R6P.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Next!"; ObjectID = "NHT-ea-Skx"; */
+"NHT-ea-Skx.normalTitle" = "Siguiente!";
+
+/* Class = "UILabel"; text = "QazLearning"; ObjectID = "OUr-bd-23f"; */
+"OUr-bd-23f.text" = "QazLearning";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q9U-Yz-JEn"; */
+"Q9U-Yz-JEn.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "QRr-WK-8gP"; */
+"QRr-WK-8gP.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RAX-ii-VFi"; */
+"RAX-ii-VFi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tbl-s6-Dbf"; */
+"Tbl-s6-Dbf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Learn"; ObjectID = "YO8-7D-zN7"; */
+"YO8-7D-zN7.normalTitle" = "Aprender";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dNC-Tb-cXB"; */
+"dNC-Tb-cXB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dS4-QX-eE8"; */
+"dS4-QX-eE8.text" = "0";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "eTi-dn-ftM"; */
+"eTi-dn-ftM.text" = "name";
+
+/* Class = "UILabel"; text = "Сәлем"; ObjectID = "eiJ-EN-nCH"; */
+"eiJ-EN-nCH.text" = "Сәлем";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ey1-dX-zYi"; */
+"ey1-dX-zYi.text" = "Label";
+
+/* Class = "UILabel"; text = "Your Name"; ObjectID = "gEI-ec-uIi"; */
+"gEI-ec-uIi.text" = "Tu nombre";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gg0-Ur-Pad"; */
+"gg0-Ur-Pad.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "srz-S5-CuE"; */
+"srz-S5-CuE.normalTitle" = "Comienzo";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uqg-1U-FFp"; */
+"uqg-1U-FFp.normalTitle" = "Hecho";

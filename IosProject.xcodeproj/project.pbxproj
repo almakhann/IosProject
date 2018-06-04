@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		720408F21EE3200E00751245 /* cor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 720408F11EE3200E00751245 /* cor.mp3 */; };
+		720408F41EE3211700751245 /* wro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 720408F31EE3211700751245 /* wro.mp3 */; };
+		72085C4E1FCC42F200CC2131 /* userModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72085C4D1FCC42F200CC2131 /* userModel.swift */; };
 		727C63681EB71BFA00C9903E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C63671EB71BFA00C9903E /* AppDelegate.swift */; };
 		727C636A1EB71BFA00C9903E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C63691EB71BFA00C9903E /* ViewController.swift */; };
 		727C636D1EB71BFA00C9903E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 727C636B1EB71BFA00C9903E /* Main.storyboard */; };
@@ -15,6 +18,15 @@
 		727C63751EB71BFB00C9903E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 727C63731EB71BFB00C9903E /* LaunchScreen.storyboard */; };
 		727C63801EB71BFB00C9903E /* IosProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C637F1EB71BFB00C9903E /* IosProjectTests.swift */; };
 		727C638B1EB71BFB00C9903E /* IosProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C638A1EB71BFB00C9903E /* IosProjectUITests.swift */; };
+		727C63991EB728CB00C9903E /* LevelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C63981EB728CB00C9903E /* LevelViewController.swift */; };
+		727C639D1EB729BD00C9903E /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C639C1EB729BD00C9903E /* CustomTableViewCell.swift */; };
+		727C639F1EB72CED00C9903E /* PlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C639E1EB72CED00C9903E /* PlayViewController.swift */; };
+		727C63A11EB72FE800C9903E /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C63A01EB72FE800C9903E /* MainViewController.swift */; };
+		727C63A31EB8E50800C9903E /* ReitingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C63A21EB8E50800C9903E /* ReitingViewController.swift */; };
+		727C63A51EB8E51D00C9903E /* ReitingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727C63A41EB8E51D00C9903E /* ReitingTableViewCell.swift */; };
+		72E610B21EBADB4200EA1BB9 /* Segue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E610B11EBADB4200EA1BB9 /* Segue.swift */; };
+		72F084331EBA430500DE0E8D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72F084321EBA430500DE0E8D /* AVFoundation.framework */; };
+		72F084371EBA451800DE0E8D /* LearnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F084361EBA451800DE0E8D /* LearnViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +47,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		720408F11EE3200E00751245 /* cor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cor.mp3; sourceTree = "<group>"; };
+		720408F31EE3211700751245 /* wro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wro.mp3; sourceTree = "<group>"; };
+		72085C4D1FCC42F200CC2131 /* userModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = userModel.swift; sourceTree = "<group>"; };
 		727C63641EB71BFA00C9903E /* IosProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IosProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		727C63671EB71BFA00C9903E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		727C63691EB71BFA00C9903E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +64,20 @@
 		727C63861EB71BFB00C9903E /* IosProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IosProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		727C638A1EB71BFB00C9903E /* IosProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IosProjectUITests.swift; sourceTree = "<group>"; };
 		727C638C1EB71BFB00C9903E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		727C63981EB728CB00C9903E /* LevelViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LevelViewController.swift; sourceTree = "<group>"; };
+		727C639C1EB729BD00C9903E /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomTableViewCell.swift; path = ../CustomTableViewCell.swift; sourceTree = "<group>"; };
+		727C639E1EB72CED00C9903E /* PlayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayViewController.swift; sourceTree = "<group>"; };
+		727C63A01EB72FE800C9903E /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		727C63A21EB8E50800C9903E /* ReitingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReitingViewController.swift; sourceTree = "<group>"; };
+		727C63A41EB8E51D00C9903E /* ReitingTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReitingTableViewCell.swift; sourceTree = "<group>"; };
+		7296ADF41EBA72AA006B6A82 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		7296ADF51EBA72AB006B6A82 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		7296ADF61EBA7544006B6A82 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Main.strings; sourceTree = "<group>"; };
+		7296ADF71EBA7544006B6A82 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		72E610B11EBADB4200EA1BB9 /* Segue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Segue.swift; sourceTree = "<group>"; };
+		72F084301EBA36EB00DE0E8D /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		72F084321EBA430500DE0E8D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		72F084361EBA451800DE0E8D /* LearnViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LearnViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72F084331EBA430500DE0E8D /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +113,7 @@
 				727C637E1EB71BFB00C9903E /* IosProjectTests */,
 				727C63891EB71BFB00C9903E /* IosProjectUITests */,
 				727C63651EB71BFA00C9903E /* Products */,
+				72F0842F1EBA36EB00DE0E8D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -104,8 +135,18 @@
 				727C636B1EB71BFA00C9903E /* Main.storyboard */,
 				727C63711EB71BFA00C9903E /* Assets.xcassets */,
 				727C63731EB71BFB00C9903E /* LaunchScreen.storyboard */,
+				72F084361EBA451800DE0E8D /* LearnViewController.swift */,
+				727C63A01EB72FE800C9903E /* MainViewController.swift */,
+				72E610B11EBADB4200EA1BB9 /* Segue.swift */,
+				72E610AE1EBAD44900EA1BB9 /* New Group */,
+				727C639E1EB72CED00C9903E /* PlayViewController.swift */,
 				727C63761EB71BFB00C9903E /* Info.plist */,
+				727C63981EB728CB00C9903E /* LevelViewController.swift */,
+				727C639C1EB729BD00C9903E /* CustomTableViewCell.swift */,
 				727C636E1EB71BFA00C9903E /* IosProject.xcdatamodeld */,
+				727C63A21EB8E50800C9903E /* ReitingViewController.swift */,
+				727C63A41EB8E51D00C9903E /* ReitingTableViewCell.swift */,
+				72085C4D1FCC42F200CC2131 /* userModel.swift */,
 			);
 			path = IosProject;
 			sourceTree = "<group>";
@@ -126,6 +167,24 @@
 				727C638C1EB71BFB00C9903E /* Info.plist */,
 			);
 			path = IosProjectUITests;
+			sourceTree = "<group>";
+		};
+		72E610AE1EBAD44900EA1BB9 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				720408F31EE3211700751245 /* wro.mp3 */,
+				720408F11EE3200E00751245 /* cor.mp3 */,
+			);
+			name = "New Group";
+			sourceTree = "<group>";
+		};
+		72F0842F1EBA36EB00DE0E8D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				72F084321EBA430500DE0E8D /* AVFoundation.framework */,
+				72F084301EBA36EB00DE0E8D /* AudioToolbox.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,8 +298,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				727C63751EB71BFB00C9903E /* LaunchScreen.storyboard in Resources */,
+				720408F41EE3211700751245 /* wro.mp3 in Resources */,
 				727C63721EB71BFA00C9903E /* Assets.xcassets in Resources */,
 				727C636D1EB71BFA00C9903E /* Main.storyboard in Resources */,
+				720408F21EE3200E00751245 /* cor.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,9 +326,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				727C63A11EB72FE800C9903E /* MainViewController.swift in Sources */,
 				727C63701EB71BFA00C9903E /* IosProject.xcdatamodeld in Sources */,
+				72085C4E1FCC42F200CC2131 /* userModel.swift in Sources */,
+				727C639D1EB729BD00C9903E /* CustomTableViewCell.swift in Sources */,
+				72E610B21EBADB4200EA1BB9 /* Segue.swift in Sources */,
 				727C636A1EB71BFA00C9903E /* ViewController.swift in Sources */,
 				727C63681EB71BFA00C9903E /* AppDelegate.swift in Sources */,
+				72F084371EBA451800DE0E8D /* LearnViewController.swift in Sources */,
+				727C639F1EB72CED00C9903E /* PlayViewController.swift in Sources */,
+				727C63991EB728CB00C9903E /* LevelViewController.swift in Sources */,
+				727C63A51EB8E51D00C9903E /* ReitingTableViewCell.swift in Sources */,
+				727C63A31EB8E50800C9903E /* ReitingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +377,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				727C636C1EB71BFA00C9903E /* Base */,
+				7296ADF41EBA72AA006B6A82 /* es */,
+				7296ADF61EBA7544006B6A82 /* pl */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -315,6 +387,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				727C63741EB71BFB00C9903E /* Base */,
+				7296ADF51EBA72AB006B6A82 /* es */,
+				7296ADF71EBA7544006B6A82 /* pl */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -326,6 +400,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -376,6 +451,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -518,6 +594,7 @@
 				727C63911EB71BFB00C9903E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		727C63921EB71BFB00C9903E /* Build configuration list for PBXNativeTarget "IosProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +603,7 @@
 				727C63941EB71BFB00C9903E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		727C63951EB71BFB00C9903E /* Build configuration list for PBXNativeTarget "IosProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +612,7 @@
 				727C63971EB71BFB00C9903E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
